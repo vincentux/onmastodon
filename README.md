@@ -18,8 +18,8 @@ By defaults, things should be alphabetically organised.
 
 ## English
 
- + [The Verge](https://social.undernet.uy/theverge) :robot:
  + [Phys](https://social.oalm.gub.uy/phys) :robot:
+ + [The Verge](https://social.undernet.uy/theverge) :robot:
  
 ## French
 
