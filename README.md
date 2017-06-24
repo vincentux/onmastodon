@@ -20,6 +20,7 @@ By defaults, things should be alphabetically organised.
 
  + [Phys](https://social.oalm.gub.uy/phys) :robot:
  + [The Verge](https://social.undernet.uy/theverge) :robot:
+ + [E. Snowden](https://mamot.fr/@snowden) :robot:
  
 ## French
 
