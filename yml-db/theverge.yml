@@ -1,0 +1,8 @@
+---
+name: The Verge
+description: ""
+bot: true
+lang:
+  - en
+mastodonUrls:
+  - https://social.undernet.uy/theverge

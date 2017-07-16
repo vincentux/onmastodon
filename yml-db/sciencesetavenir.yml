@@ -1,0 +1,8 @@
+---
+name: Sciences et Avenir
+description: ""
+bot: true
+lang:
+  - fr
+mastodonUrls:
+  - https://3.nu/@sciencesetavenir

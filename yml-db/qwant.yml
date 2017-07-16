@@ -1,0 +1,8 @@
+---
+name: Qwant
+description: ""
+bot: true
+lang:
+  - fr
+mastodonUrls:
+  - https://mastodon.social/@Qwant

@@ -1,0 +1,8 @@
+---
+name: Le Figaro
+description: ""
+bot: true
+lang:
+  - fr
+mastodonUrls:
+  - https://mastodon.xyz/@lefigaro

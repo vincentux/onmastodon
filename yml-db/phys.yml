@@ -1,0 +1,8 @@
+---
+name: Phys.org
+description: ""
+bot: true
+lang:
+  - en
+mastodonUrls:
+  - https://social.oalm.gub.uy/phys

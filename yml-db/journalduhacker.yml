@@ -1,0 +1,8 @@
+---
+name: Le Journal du Hacker
+description: ""
+bot: false
+lang:
+  - fr
+mastodonUrls:
+  - https://framapiaf.org/@journalduhacker

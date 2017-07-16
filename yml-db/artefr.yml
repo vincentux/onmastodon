@@ -1,0 +1,8 @@
+---
+name: Arte en Français
+description: ""
+bot: true
+lang:
+  - fr
+mastodonUrls:
+  - https://mamot.fr/@artefr

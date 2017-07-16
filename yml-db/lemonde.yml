@@ -1,0 +1,8 @@
+---
+name: Le Monde
+description: ""
+bot: true
+lang:
+  - fr
+mastodonUrls:
+  - https://mastodon.xyz/@lemondebot

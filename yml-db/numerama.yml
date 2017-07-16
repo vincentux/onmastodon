@@ -1,0 +1,8 @@
+---
+name: Numerama
+description: ""
+bot: false
+lang:
+  - fr
+mastodonUrls:
+  - https://social.numerama.com/@numerama

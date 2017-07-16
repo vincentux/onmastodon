@@ -1,0 +1,44 @@
+.pure-menu {
+    background-color: #f9f9f9;
+}
+html {
+    /* background: linear-gradient(0deg, #fafafa, #d3d3d3); */
+    background-image: linear-gradient(180deg, #fafafa, #d3d3d3);
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+
+    height: 100%;
+    margin:0px;
+    background: url("/img/diego-jimenez-258120.jpg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.card {
+    background-color: #f9f9f9;
+    border: 0.2em solid #f8f8f8;
+    border-radius: 0.5em;
+    padding: 1em;
+    margin: 3em 0;
+    text-align: center;
+    height: 70%;
+}
+.twttr, .mstdn { margin: 0.25em; min-width: 100% }
+.twttr {
+    background-color: #e8cfa4;
+}
+.mstdn {
+    background-color: #1bb78d;
+}
+.intro {
+    text-align: center;
+    padding: 10em 0;
+    border-bottom: 1em;
+}
+.intro p {
+    font-style: italic;
+}
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+    /* Set your content font stack here: */
+    font-family: source-sans-pro, sans-serif;
+}

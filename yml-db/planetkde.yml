@@ -1,0 +1,8 @@
+---
+name: KDE Planet
+description: ""
+bot: true
+lang:
+  - en
+mastodonUrls:
+  - https://gnusocial.de/kdeplanet
