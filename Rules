@@ -2,7 +2,7 @@
 
 compile '/**/*.erb' do
   filter :erb
-  layout "/default.*"
+  layout '/default.*'
   write ext: 'html'
 end
 

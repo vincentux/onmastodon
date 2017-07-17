@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+        <meta charset="utf-8">
+        <title>On Mastodon<%= if @item[:title].nil?
+            ""
+            else " - #{@item[:title]}" end %></title>
+        <link rel="stylesheet" href="/stylesheet.css">
+
+        <!-- Source Code Pro font -->
+        <script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9.js"></script>
+
+        <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
+    </head>
+    <body>
+        <header>
+            <div class="pure-menu pure-menu-horizontal">
+                <a href="/" class="pure-menu-heading pure-menu-link">HOME</a>
+                <ul class="pure-menu-list">
+                    <li class="pure-menu-item"><a href="/contribute" class="pure-menu-link">Contribute</a></li>
+                    <li class="pure-menu-item"><a href="/about" class="pure-menu-link">About</a></li>
+                    <li class="pure-menu-item"><a href="https://github.com/leowzukw/onmastodon" class="pure-menu-link">GitHub</a></li>
+                </ul>
+            </div>
+        </header>
