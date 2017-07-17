@@ -1,0 +1,8 @@
+---
+name: Le Monde Diplomatique
+description: ""
+bot: true
+lang:
+  - fr
+mastodonUrls:
+  - https://mamot.fr/@mdiplo
