@@ -1,8 +1,10 @@
 ---
 name: E. Snowden
-description: ""
+description: "President at Freedom of Press."
 bot: true
 lang:
   - en
 mastodonUrls:
   - https://mamot.fr/@snowden
+twitterUrls:
+  - https://twitter.com/Snowden</td>
