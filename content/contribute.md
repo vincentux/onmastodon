@@ -74,9 +74,16 @@ Each profile is stored in a [Yaml](http://yaml.org) file of its own. It has the 
     <tr>
       <td>twitterUrls</td>
       <td>string list</td>
-      <td>✔</td>
+      <td>✗</td>
       <td>A list of urls for the profile (accross instances)</td>
       <td> - https://twitter.com/Snowden</td>
+    </tr>
+    <tr>
+      <td>runBy</td>
+      <td>string list</td>
+      <td>✗</td>
+      <td>A list of urls of associated ressources (Newspaper website, personnal blog)</td>
+      <td> - https://snowden.blog</td>
     </tr>
     </tbody>
     </table>

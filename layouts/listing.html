@@ -12,6 +12,10 @@
                 <br/>
                 <em>Languages:</em>
                     <%= e[:lang].join(', ') %>
+                <br />
+                <% if e[:runBy] %>
+                    <a href="<%= e[:runBy].first %>"><%= e[:runBy].first %></a>
+                <% end %>
                 </p>
             <a class="pure-button mstdn" href="<%= e[:mastodonUrls].first %>">Mastodon</a>
             <% if e[:twitterUrl] %>
