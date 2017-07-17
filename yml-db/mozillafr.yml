@@ -1,0 +1,8 @@
+---
+name: Mozilla Francophone
+description: "Communauté Mozilla francophone"
+bot: ""
+lang:
+  - fr
+mastodonUrls:
+- https://mamot.fr/@Mozilla
