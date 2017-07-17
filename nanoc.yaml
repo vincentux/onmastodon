@@ -94,4 +94,4 @@ checks:
 
 environments:
   prod:
-    base_url: "http://onmastodon.tk"
+    base_url: "https://onmastodon.tk"
