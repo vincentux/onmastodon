@@ -1,0 +1,11 @@
+---
+name: S. Bortzmeyer
+description: "À court d'imagination"
+bot: false
+lang:
+  - fr
+  - en
+mastodonUrls:
+  - https://mastodon.gougere.fr/@bortzmeyer
+runBy:
+  - http://www.bortzmeyer.org/
