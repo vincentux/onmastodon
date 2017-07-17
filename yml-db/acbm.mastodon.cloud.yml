@@ -1,0 +1,8 @@
+---
+name: ACBM
+description: "Le virus informatique"
+bot: false
+lang:
+  - fr
+mastodonUrls:
+  - https://mastodon.cloud/@acbm_com
