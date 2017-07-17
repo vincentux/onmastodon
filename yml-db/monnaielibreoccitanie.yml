@@ -1,0 +1,8 @@
+---
+name: Monnaie Libre Occitanie
+description: "Collectif Monnaie Libre Occitanie"
+bot: false
+lang:
+  - fr
+mastodonUrls:
+- https://framapiaf.org/@monnaielibreoccitanie
