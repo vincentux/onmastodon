@@ -1,0 +1,8 @@
+---
+name: Open Street Map
+description: "Compte Officiel OpenStreetMap France - asso loi 1901"
+bot: false
+lang:
+  - fr
+mastodonUrls:
+- https://fr.osm.social/@osm_fr
