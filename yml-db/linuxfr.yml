@@ -1,0 +1,8 @@
+---
+name: Linux Fr
+description: "Mirroir Twitter non-officiel de LinuxFR"
+bot: true
+lang:
+  - fr
+mastodonUrls:
+- https://apoil.org/@linuxfr
