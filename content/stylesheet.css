@@ -22,6 +22,10 @@ html {
     text-align: center;
     height: 70%;
 }
+.blank div {
+    background-color: #f9f9f9;
+    padding: 2em;
+}
 .twttr, .mstdn { margin: 0.25em; min-width: 100% }
 .twttr {
     background-color: #e8cfa4;

@@ -1,0 +1,7 @@
+<%= render '/head.*' %>
+
+<% render '/main_grid.*', { :notPage => true} do %>
+<%= yield %>
+<% end %>
+
+<%= render '/foot.*' %>
