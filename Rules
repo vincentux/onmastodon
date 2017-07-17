@@ -4,6 +4,8 @@ compile '/**/*.erb' do
   filter :erb
   if item.identifier =~ '/index.*'
     layout '/backgroundless.*'
+  elsif item.identifier =~ '/rules/*'
+    layout '/backgroundless.*'
   else
     layout '/default.*'
   end

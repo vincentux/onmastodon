@@ -6,33 +6,5 @@
 </div>
 
 <div class="pure-g">
-
-    <% i=0 # Place spacing column only has required %>
-    <% db_entries_random_order.each do |e| %>
-        <% i += 1 %>
-
-        <div class="pure-u-lg-4-24 pure-u-1"> <div class="card">
-            <h1><%= e[:name] %></h1>
-                <p><em>Human:</em>
-                    <%= if not e[:bot]
-                        "&#x2714;"
-                    else "&#x2717;"
-                    end %>
-                <br/>
-                <em>Languages:</em>
-                    <%= e[:lang].join(', ') %>
-                </p>
-            <a class="pure-button mstdn" href="<%= e[:mastodonUrls].first %>">Mastodon</a>
-            <% if e[:twitterUrl] %>
-                <a class="pure-button twttr" href="<%= e[:twitterUrls].first %>">Twitter</a>
-            <% end %>
-        </div> </div>
-
-        <% if i % 5 != 0 %>
-        <div class="pure-u-1-24">
-        </div>
-        <% end %>
-
-    <% end %>
-
+    <%= render '/listing.*', :items => db_entries_random_order %>
 </div>
