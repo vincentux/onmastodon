@@ -3,6 +3,10 @@ title: About
 ---
 # About
 
+**Follow us on [Mastodon](https://mamot.fr/@onmastodon).**
+
+You may use our official hashtag too, [#OnMastodon](https://mamot.fr/tags/onmastodon).
+
 ## Credits
 
 Built using [Source Sans Pro](http://adobe-fonts.github.io/source-sans-pro/), [Nanoc](https://nanoc.ws).
