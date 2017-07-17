@@ -4,6 +4,9 @@
 
         <div class="pure-u-lg-4-24 pure-u-1"> <div class="card">
             <h1><%= e[:name] %></h1>
+            <% if e[:description] %>
+                <p><%= e[:description] %></p>
+            <% end %>
                 <p><em>Human:</em>
                     <%= if not e[:bot]
                         "&#x2714;"
