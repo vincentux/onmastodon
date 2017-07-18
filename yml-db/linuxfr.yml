@@ -5,4 +5,4 @@ bot: true
 lang:
   - fr
 mastodonUrls:
-- https://apoil.org/@linuxfr
+  - https://apoil.org/@linuxfr
