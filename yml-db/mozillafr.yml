@@ -1,7 +1,7 @@
 ---
 name: Mozilla Francophone
 description: "Communauté Mozilla francophone"
-bot: ""
+bot: true
 lang:
   - fr
 mastodonUrls:
