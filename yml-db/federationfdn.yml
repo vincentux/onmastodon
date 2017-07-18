@@ -1,0 +1,11 @@
+---
+name: Fédération FDN
+description: "Fédération de FAI associatifs - Défense et promotion de la neutralité du Net."
+bot: false
+lang:
+  - fr
+  - en
+mastodonUrls:
+  - https://mastodon.xyz/@federationfdn
+twitterUrls:
+  - https://twitter.com/federationfdn
