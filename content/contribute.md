@@ -98,3 +98,4 @@ There is a [template](/template.yml) to get started. You might browse [the sourc
 + You might mention your mastodon account.
 + You should entitle it *Profile: …* to keep things tidy.
 + You should use English in your comments and description.
++ You should give number of follower to ease verification of rules.
