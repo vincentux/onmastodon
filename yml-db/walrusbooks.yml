@@ -1,0 +1,8 @@
+---
+name: Walrus Books
+description: "OVNIs littéraires"
+bot: false
+lang:
+  - fr
+mastodonUrls:
+- https://framapiaf.org/@Walrus
