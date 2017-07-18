@@ -5,4 +5,4 @@ bot: false
 lang:
   - fr
 mastodonUrls:
-- https://framapiaf.org/@Walrus
+  - https://framapiaf.org/@Walrus
