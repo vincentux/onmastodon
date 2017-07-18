@@ -1,0 +1,11 @@
+---
+name: Yunohost
+description: "Yoloficial account"
+bot: false
+lang:
+  - fr
+  - en
+mastodonUrls:
+  - https://mastodon.social/@yunohost
+twitterUrls:
+  - https://twitter.com/yunohost
