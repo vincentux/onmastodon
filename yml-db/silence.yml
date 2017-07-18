@@ -1,0 +1,11 @@
+---
+name: Silence
+description: "Encrypted SMS/MMS conversations made easy!"
+bot: false
+lang:
+  - fr
+  - en
+mastodonUrls:
+  - https://mastodon.social/@silence
+twitterUrls
+  - https://twitter.com/SilenceIM
