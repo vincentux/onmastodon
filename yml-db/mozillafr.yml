@@ -5,4 +5,4 @@ bot: true
 lang:
   - fr
 mastodonUrls:
-- https://mamot.fr/@Mozilla
+  - https://mamot.fr/@Mozilla
