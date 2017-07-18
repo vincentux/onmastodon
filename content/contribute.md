@@ -94,3 +94,5 @@ There is a [template](/template.yml) to get started. You might browse [the sourc
 
 + You should make per-profile pull-request (PR): if your PR is rejected for one profile, the others are not excluded.
 + You might mention your mastodon account.
++ You should entitle it *Profile: …* to keep things tidy.
++ You should use English in your comments and description.
