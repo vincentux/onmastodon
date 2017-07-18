@@ -1,0 +1,8 @@
+---
+name: Ubuntu Francophone
+description: "Compte francophone pour les utilisateurs de la distribution Ubuntu"
+bot: false
+lang:
+  - fr
+mastodonUrls:
+- https://mamot.fr/@UbuntuFR
