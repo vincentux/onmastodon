@@ -5,4 +5,4 @@ bot: false
 lang:
   - fr
 mastodonUrls:
-- https://fr.osm.social/@osm_fr
+  - https://fr.osm.social/@osm_fr
