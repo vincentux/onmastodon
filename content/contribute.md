@@ -99,3 +99,11 @@ There is a [template](/template.yml) to get started. You might browse [the sourc
 + You should entitle it *Profile: …* to keep things tidy.
 + You should use English in your comments and description.
 + You should give number of follower to ease verification of rules.
+
+## Edit the website
+
+Found a typo? Have ideas to improve a page? Here is a few tips:
+
+ + We use [Nanoc](https://nanoc.ws).
+ + Pages are stored in [content](https://gitlab.com/WzukW/onmastodon/tree/master/content), if they are not Mastodon profiles.
+ + Templates are in [layouts](https://gitlab.com/WzukW/onmastodon/tree/master/layouts).
