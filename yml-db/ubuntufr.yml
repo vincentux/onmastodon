@@ -5,4 +5,4 @@ bot: false
 lang:
   - fr
 mastodonUrls:
-- https://mamot.fr/@UbuntuFR
+  - https://mamot.fr/@UbuntuFR
