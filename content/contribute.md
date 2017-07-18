@@ -23,7 +23,9 @@ Things should be alphabetically or randomly organised if nothing else makes sens
 
 ### Yaml Files
 
-Each profile is stored in a [Yaml](http://yaml.org) file of its own. It has the following structure:
+Each profile is stored in a [Yaml](http://yaml.org) file of its own. Name it without any reference to any mastodon instance, if possible: for instance `snowden.yml` instead of `snowden.mamot.fr.yml`. The thing is there may be several instances listed in mastdonUrls field.
+
+It has the following structure:
 
 <table class="pure-table pure-table-bordered pure-table-odd">
   <thead>
