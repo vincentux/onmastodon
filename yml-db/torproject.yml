@@ -5,4 +5,4 @@ bot: true
 lang:
   - en
 mastodonUrls:
-- https://social.undernet.uy/torproject
+  - https://social.undernet.uy/torproject
