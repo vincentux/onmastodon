@@ -1,0 +1,9 @@
+---
+name: Framasoft
+description: "La route est longue mais la voie est libre…"
+bot: false
+lang:
+  - fr
+  - en
+mastodonUrls:
+  - https://framapiaf.org/@Framasoft
